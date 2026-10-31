@@ -1,0 +1,6 @@
+{
+  "name": "ReelShield",
+  "description": "Block Instagram Reels feed & tabs while keeping chat video and DM reels accessible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

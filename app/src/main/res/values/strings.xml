@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelShield</string>
+    <string name="accessibility_service_description">ReelShield detects when Instagram is open to prevent opening the addictive Reels tab and feed, while keeping Reels videos sent inside Direct Chat messages accessible.</string>
+</resources>
